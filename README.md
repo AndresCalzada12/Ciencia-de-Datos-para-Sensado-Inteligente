@@ -40,8 +40,11 @@ This repository collects a series of practical exercises and a final project foc
 
 **Calzada Jasso Andres Geovani**  
 Maestía en Ciencias de la Computación
+
 Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE)  
+
 📧 andres.calzada@cicese.edu.mx
+
 📧 andrecalz1298@gmail.com (personal e-mail)
 
 ---
