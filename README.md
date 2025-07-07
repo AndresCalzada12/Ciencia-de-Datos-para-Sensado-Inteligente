@@ -36,7 +36,7 @@ This repository collects a series of practical exercises and a final project foc
 
 ---
 
-## 👩‍💻 Autora / Author
+## Autor / Author
 
 **Calzada Jasso Andres Geovani**  
 Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE)  
