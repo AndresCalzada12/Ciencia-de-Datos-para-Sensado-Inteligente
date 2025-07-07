@@ -40,7 +40,7 @@ This repository collects a series of practical exercises and a final project foc
 
 **Calzada Jasso Andres Geovani**  
 
-Maestría en Ciencias de la Computación / Master of Computer Science
+Maestría en Ciencias de la Computación / Master's degree in Computer Science
 
 Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE)  
 
