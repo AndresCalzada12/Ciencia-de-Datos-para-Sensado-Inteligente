@@ -36,7 +36,7 @@ This repository collects a series of practical exercises and a final project foc
 
 ---
 
-## Autor / Author
+## 🧑‍💻 Autor / Author
 
 **Calzada Jasso Andres Geovani**  
 
