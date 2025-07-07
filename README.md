@@ -39,7 +39,8 @@ This repository collects a series of practical exercises and a final project foc
 ## Autor / Author
 
 **Calzada Jasso Andres Geovani**  
-Maestía en Ciencias de la Computación
+
+Maestría en Ciencias de la Computación / Master of Computer Science
 
 Centro de Investigación Científica y de Educación Superior de Ensenada (CICESE)  
 
